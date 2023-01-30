@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "avi",
+      "email": "avi@gm.com",
+      "password": "1234r",
+      "id": 1
+    },
+    {
+      "name": "Aditi",
+      "email": "adi@gmail.com",
+      "password": "dkbafkhb",
+      "id": 2
+    },
+    {
+      "name": "dri",
+      "email": "dri@gmail.com",
+      "password": "iwdygWJHG",
+      "id": 3
+    },
+    {
+      "name": "drishti",
+      "email": "drishti@sinha",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "Aviral",
+      "email": " avi@gmail",
+      "password": "qwerty",
+      "id": 6
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "city": "Vadodara",
+      "area": "Makarpura",
+      "id": 1
+    },
+    {
+      "name": "Dominose",
+      "city": "Ahmedabad",
+      "area": "Income Tax",
+      "id": 2
+    },
+    {
+      "name": "La Pinos",
+      "city": "Ahmedabad",
+      "area": "Navrangpura",
+      "id": 3
+    },
+    {
+      "name": "Jassi Da Dhabba",
+      "city": "Vadodara",
+      "area": "Makarpura",
+      "id": 4
+    },
+    {
+      "name": "Baroda Dairy",
+      "address": "Tarsali",
+      "city": "vadodara",
+      "id": 5
+    }
+  ]
+}
